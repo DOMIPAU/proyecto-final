@@ -1,0 +1,10 @@
+.nav-item {
+  color: #373737;
+  background-color: var(--bs-gray-200);
+}
+
+.nav-item:hover {
+  color: var(--bs-body-bg);
+  background-color: #6a6a6a;
+}
+
